@@ -1,0 +1,24 @@
+{
+  "version": "2026.10.02.0",
+  "sha256": "5dc1aaebeb190dd673260b12592701552fa2636e7ba619976ddbbcabe242c783",
+  "notes": "自动更新版 2026.10.02.0",
+  "parts": [
+    {
+      "sha256": "0f3711c401d6f1c2ebb136384155b89a1f806c6f06b9dc35fa09c40e2c258969",
+      "urls": [
+        "https://gh-proxy.com/https://raw.githubusercontent.com/752153071/hz-assist-upd/main/update_2026.10.02.0_0f3711c4.part1.bin",
+        "https://github.com/752153071/hz-assist-upd/raw/main/update_2026.10.02.0_0f3711c4.part1.bin"
+      ]
+    },
+    {
+      "sha256": "f23ac5652c8bfca491481956a8cb236dbd4efa7a4ef7d55f308d615adc01acdb",
+      "urls": [
+        "https://gh-proxy.com/https://raw.githubusercontent.com/752153071/hz-assist-upd/main/update_2026.10.02.0_f23ac565.part2.bin",
+        "https://github.com/752153071/hz-assist-upd/raw/main/update_2026.10.02.0_f23ac565.part2.bin"
+      ]
+    }
+  ],
+  "urls": [
+    "https://github.com/752153071/hz-assist-upd/releases/download/v2026.10.02.0/update.zip"
+  ]
+}
