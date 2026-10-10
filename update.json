@@ -1,24 +1,24 @@
 {
-  "version": "2026.10.09.1",
-  "sha256": "806f8c4e3da6cad5d932637a4c872831efc4e473b12d448654a372788d5d5823",
-  "notes": "自动更新版 2026.10.09.1",
+  "version": "2026.10.10.0",
+  "sha256": "f38d28bdd3ec924b96a2abcf5c0e5c21c39cf5908b3f8c726702f497815766d2",
+  "notes": "自动更新版 2026.10.10.0",
   "parts": [
     {
-      "sha256": "e6905e1e781a26a8fce64c024a7045f733f3bb98dda39fd3aa0ef576a63544e8",
+      "sha256": "f230a38c5cc5655be7e4787cf1098c083e2b703a29a208180b95b26ce9057603",
       "urls": [
-        "https://gh-proxy.com/https://raw.githubusercontent.com/752153071/hz-assist-upd/main/update_2026.10.09.1_e6905e1e.part1.bin",
-        "https://github.com/752153071/hz-assist-upd/raw/main/update_2026.10.09.1_e6905e1e.part1.bin"
+        "https://gh-proxy.com/https://raw.githubusercontent.com/752153071/hz-assist-upd/main/update_2026.10.10.0_f230a38c.part1.bin",
+        "https://github.com/752153071/hz-assist-upd/raw/main/update_2026.10.10.0_f230a38c.part1.bin"
       ]
     },
     {
-      "sha256": "0fe18f4ddc87cd0e1295fed53283a9c4d44afe452aad34f388f6a8f60458c959",
+      "sha256": "cce9e87f1ff2de2e64558f6907e73f6a0358f3dbbf790ae8a759fae49bf287b2",
       "urls": [
-        "https://gh-proxy.com/https://raw.githubusercontent.com/752153071/hz-assist-upd/main/update_2026.10.09.1_0fe18f4d.part2.bin",
-        "https://github.com/752153071/hz-assist-upd/raw/main/update_2026.10.09.1_0fe18f4d.part2.bin"
+        "https://gh-proxy.com/https://raw.githubusercontent.com/752153071/hz-assist-upd/main/update_2026.10.10.0_cce9e87f.part2.bin",
+        "https://github.com/752153071/hz-assist-upd/raw/main/update_2026.10.10.0_cce9e87f.part2.bin"
       ]
     }
   ],
   "urls": [
-    "https://github.com/752153071/hz-assist-upd/releases/download/v2026.10.09.1/update.zip"
+    "https://github.com/752153071/hz-assist-upd/releases/download/v2026.10.10.0/update.zip"
   ]
 }
